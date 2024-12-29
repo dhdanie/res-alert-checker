@@ -1,0 +1,11 @@
+DONE:
+
+Login to single page
+Get search results for one search
+
+
+TODO:
+
+Automation of searching
+Search email rotation
+Proper checking for search completion and steps for uncompleted searches
